@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 7 | 7 | 0 | 0 |
+| LeetCode | 8 | 8 | 0 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **7** | **7** | **0** | **0** |
+| **Total** | **8** | **8** | **0** | **0** |
 
 ## Solved Problems
 
@@ -22,4 +22,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 5 | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1661_AverageTimeOfProcessPerMachine.cpp) |
 | 6 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1683_InvalidTweets.cpp) |
 | 7 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/197_RisingTemperature.cpp) |
+| 8 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
 <!-- COMMITDSA_END -->
