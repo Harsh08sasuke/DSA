@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 5 | 5 | 0 | 0 |
+| LeetCode | 6 | 6 | 0 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **5** | **5** | **0** | **0** |
+| **Total** | **6** | **6** | **0** | **0** |
 
 ## Solved Problems
 
@@ -20,4 +20,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1378_ReplaceEmployeeIDWithTheUniqueIdentifier.cpp) |
 | 4 | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1581_CustomerWhoVisitedButDidNotMakeAnyTransactions.cpp) |
 | 5 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1683_InvalidTweets.cpp) |
+| 6 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/197_RisingTemperature.cpp) |
 <!-- COMMITDSA_END -->
