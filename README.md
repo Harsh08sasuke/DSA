@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 11 | 9 | 2 | 0 |
+| LeetCode | 12 | 10 | 2 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **11** | **9** | **2** | **0** |
+| **Total** | **12** | **10** | **2** | **0** |
 
 ## Solved Problems
 
@@ -24,6 +24,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 7 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/1683_InvalidTweets.cpp) |
 | 8 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/197_RisingTemperature.cpp) |
 | 9 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
-| 10 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
-| 11 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 10 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
+| 11 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
+| 12 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
 <!-- COMMITDSA_END -->
