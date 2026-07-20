@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 24 | 18 | 6 | 0 |
+| LeetCode | 25 | 19 | 6 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **24** | **18** | **6** | **0** |
+| **Total** | **25** | **19** | **6** | **0** |
 
 ## Solved Problems
 
@@ -32,11 +32,12 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 15 | [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/2356_NumberOfUniqueSubjectsTaughtByEachTeacher.cpp) |
 | 16 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
 | 17 | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/596_ClassesWithAtLeast5Students.cpp) |
-| 18 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
-| 19 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1070_ProductSalesAnalysisIII.cpp) |
-| 20 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
-| 21 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
-| 22 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
-| 23 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
-| 24 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 18 | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/619_BiggestSingleNumber.cpp) |
+| 19 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
+| 20 | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1070_ProductSalesAnalysisIII.cpp) |
+| 21 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
+| 22 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
+| 23 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
+| 24 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
+| 25 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
 <!-- COMMITDSA_END -->
