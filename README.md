@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 17 | 14 | 3 | 0 |
+| LeetCode | 18 | 14 | 4 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **17** | **14** | **3** | **0** |
+| **Total** | **18** | **14** | **4** | **0** |
 
 ## Solved Problems
 
@@ -29,7 +29,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 12 | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/197_RisingTemperature.cpp) |
 | 13 | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/577_EmployeeBonus.cpp) |
 | 14 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/620_NotBoringMovies.cpp) |
-| 15 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
-| 16 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
-| 17 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 15 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
+| 16 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
+| 17 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
+| 18 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
 <!-- COMMITDSA_END -->
