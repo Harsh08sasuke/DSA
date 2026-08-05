@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 28 | 19 | 9 | 0 |
+| LeetCode | 29 | 19 | 10 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **28** | **19** | **9** | **0** |
+| **Total** | **29** | **19** | **10** | **0** |
 
 ## Solved Problems
 
@@ -42,5 +42,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 25 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/347_TopKFrequentElements.java) |
 | 26 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
 | 27 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
-| 28 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 28 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.java) |
+| 29 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
 <!-- COMMITDSA_END -->
