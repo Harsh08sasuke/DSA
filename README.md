@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 27 | 19 | 8 | 0 |
+| LeetCode | 28 | 19 | 9 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **27** | **19** | **8** | **0** |
+| **Total** | **28** | **19** | **9** | **0** |
 
 ## Solved Problems
 
@@ -39,7 +39,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 22 | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1174_ImmediateFoodDeliveryII.cpp) |
 | 23 | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1193_MonthlyTransactionsI.cpp) |
 | 24 | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/1934_ConfirmationRate.cpp) |
-| 25 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
-| 26 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
-| 27 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
+| 25 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/347_TopKFrequentElements.java) |
+| 26 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/49_GroupAnagrams.java) |
+| 27 | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/550_GamePlayAnalysisIV.cpp) |
+| 28 | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | LeetCode | Medium | MYSQL | [Code](./LeetCode/Medium/570_ManagersWithAtLeast5DirectReports.cpp) |
 <!-- COMMITDSA_END -->
